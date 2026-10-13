@@ -37,7 +37,6 @@ The list of widgets that Flow lays out. The default is an empty list, `const <Wi
 ## Sources
 
 - Flutter docs for Flow: https://api.flutter.dev/flutter/widgets/Flow-class.html
-- (add any tutorial or video you followed here)
 
 ## What I learned
 
